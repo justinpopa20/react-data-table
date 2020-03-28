@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Sample table features
+https://mdbootstrap.com/plugins/jquery/table-editor/
+
+## TODO
+### Edit feature
+### Filter search
+### Sort by column
+### Pagination
+
 ## Available Scripts
 
 In the project directory, you can run:
